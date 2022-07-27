@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inkscape &#8211; Noman iBlog For Business Solutions</title>
+	<atom:link href="https://islamnoman.github.io/wpnoman/category/inkscape/feed/" rel="self" type="application/rss+xml" />
+	<link>https://islamnoman.github.io/wpnoman</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 27 Jul 2022 05:16:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Inkscape photo edit for wordpress background image size fixed error!</title>
+		<link>https://islamnoman.github.io/wpnoman/inkscape-photo-edit-for-wordpress-background-image-size-fixed-error/</link>
+					<comments>https://islamnoman.github.io/wpnoman/inkscape-photo-edit-for-wordpress-background-image-size-fixed-error/#respond</comments>
+		
+		<dc:creator><![CDATA[noman]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2022 05:15:13 +0000</pubDate>
+				<category><![CDATA[Inkscape]]></category>
+		<category><![CDATA[inkscape photo edit]]></category>
+		<category><![CDATA[Inkscape photo edit for wordpress background image size fixed error!]]></category>
+		<category><![CDATA[wordpress background image size fixed]]></category>
+		<category><![CDATA[wp background image size]]></category>
+		<guid isPermaLink="false">https://islamnoman.github.io/wpnoman/?p=28</guid>
+
+					<description><![CDATA[What's the best image size to ensure fast, high-quality images that look good and responsive on Desktop, tablet and any mobile device? ( 1200*900 pixels )]]></description>
+										<content:encoded><![CDATA[
+<p>What&#8217;s the best image size to ensure fast, high-quality images that look good and responsive on Desktop, tablet and any mobile device?</p>
+
+
+
+<ul><li>Featured images size (landscape 1200 * 900 pixels)</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="576" src="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-16-1024x576.png" alt="" class="wp-image-33" srcset="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-16-1024x576.png 1024w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-16-300x169.png 300w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-16-768x432.png 768w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-16.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>digha, west bengal</figcaption></figure>
+
+
+
+<p>Open Up Inkscape and resize your images following this setting. Go to file and select Document Properties look down a little to the left Display Unit Select px and Look down at the bottom right Units go   go there Select px and hit Resize page to content.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-15-1024x576.png" alt="" class="wp-image-30" srcset="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-15-1024x576.png 1024w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-15-300x169.png 300w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-15-768x432.png 768w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-15.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Then Go to file Select Export PNG image and Select the path where you want to save image.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-14-1024x576.png" alt="" class="wp-image-31" srcset="https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-14-1024x576.png 1024w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-14-300x169.png 300w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-14-768x432.png 768w, https://islamnoman.github.io/wpnoman/wp-content/uploads/2022/07/Screenshot-14.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>now you can upload your image inside wordpress.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://islamnoman.github.io/wpnoman/inkscape-photo-edit-for-wordpress-background-image-size-fixed-error/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
